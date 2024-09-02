@@ -5,4 +5,11 @@
         "cantidad": 1,
         "marca": "Acer"
     }
+][
+    {
+        "nombre": "Laptop",
+        "precio": 120000,
+        "cantidad": 5,
+        "marca": "Lenovo"
+    }
 ]
